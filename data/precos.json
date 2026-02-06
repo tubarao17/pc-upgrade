@@ -3,21 +3,21 @@
     {
       "nome": "Ryzen 5 5600",
       "preco": 699,
-      "link": "https://www.kabum.com.br/produto/333152",
+      "link": "https://www.kabum.com.br/busca/ryzen-5-5600",
       "estoque": true
     },
     {
       "nome": "Ryzen 5 5500X3D",
       "preco": 899,
-      "link": "https://www.terabyteshop.com.br/produto/24391",
+      "link": "https://www.kabum.com.br/busca/ryzen-5-5500x3d",
       "estoque": true
     }
   ],
   "gpu": [
     {
-      "nome": "RX 7600",
+      "nome": "Radeon RX 7600",
       "preco": 1499,
-      "link": "https://www.kabum.com.br/produto/461245",
+      "link": "https://www.kabum.com.br/busca/rx-7600",
       "estoque": true
     }
   ],
@@ -25,7 +25,7 @@
     {
       "nome": "B550 Maxsun Gaming WiFi",
       "preco": 799,
-      "link": "https://www.terabyteshop.com.br/produto/23078",
+      "link": "https://www.kabum.com.br/busca/b550-maxsun",
       "estoque": true
     }
   ],
@@ -33,7 +33,7 @@
     {
       "nome": "Kingston Fury 32GB (2x16) 3200MHz",
       "preco": 599,
-      "link": "https://www.kabum.com.br/produto/114787",
+      "link": "https://www.kabum.com.br/busca/kingston-fury-32gb-3200",
       "estoque": true
     }
   ],
@@ -41,7 +41,7 @@
     {
       "nome": "LG UltraGear 27\" 180Hz",
       "preco": 1199,
-      "link": "https://www.kabum.com.br/produto/498695",
+      "link": "https://www.kabum.com.br/busca/lg-ultragear-27-180hz",
       "estoque": true
     }
   ]
